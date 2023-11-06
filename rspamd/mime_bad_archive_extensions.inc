@@ -1,0 +1,9 @@
+docx		0.1
+hta		4
+jar		3
+js		0.5
+pdf		0.1
+pptx		0.1
+vbs		4
+wsf		4
+xlsx		0.1

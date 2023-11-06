@@ -1,0 +1,12 @@
+7z
+ace
+alz
+arj
+bz2
+cab
+egg
+lz
+rar
+xz
+zip
+zpaq
